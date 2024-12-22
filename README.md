@@ -11,13 +11,6 @@
 
 <b>이 문제를 해결하기 위해 강의 PDF의 키워드들을 추가적으로 학습하여 전공 용어 인식률을 높이고 학습 활용도를 높이기 위해 프로젝트를 진행하였습니다!</b><br><br>
 
-# 💬 참여자
-
-|[Jusang Han](https://github.com/H-Software224)|[Shinwook Seon](https://github.com/tjs1012)|[Jihoon Han](https://github.com/jhhan0208)|
-|:-:|:-:|:-:|
-|<img src='https://avatars.githubusercontent.com/H-Software224' height=120 width=120></img>|<img src='https://avatars.githubusercontent.com/tjs1012' height=120 width=120></img>|<img src='https://avatars.githubusercontent.com/jhhan0208' height=120 width=120></img>
-Seraph server integration|Modeling/Flask website|Modeling/Flask website
-
 # ⚙️ 서비스 아키텍처
 ![image](https://github.com/user-attachments/assets/e7e825ff-2877-4a18-97a6-7625ee2a914e)
 
@@ -51,3 +44,10 @@ https://github.com/user-attachments/assets/038abcb1-5055-4686-85fb-c6be44aa4b1d
 • 강의 자료(PDF)에서 전공 용어 키워드를 추출하고, 데이터 증강 기법을 활용하여 전공 용어 변환 오류 수정<br>
 • 웹상으로 수정 결과를 직관적으로 확인 가능, 바로 학습에 활용 가능<br>
 • 향후, 사용자가 유사한 domain의 여러 강의들을 업로드하여 학습하면, 이전 강의들의 전공 용어들이 모두 DB에 축적되어 전공 용어 변환 정확도 향상을 통해 더욱 유용한 학습 자료로서 활용 가능
+
+# 💬 참여자
+
+|[Jusang Han](https://github.com/H-Software224)|[Shinwook Seon](https://github.com/tjs1012)|[Jihoon Han](https://github.com/jhhan0208)|
+|:-:|:-:|:-:|
+|<img src='https://avatars.githubusercontent.com/H-Software224' height=120 width=120></img>|<img src='https://avatars.githubusercontent.com/tjs1012' height=120 width=120></img>|<img src='https://avatars.githubusercontent.com/jhhan0208' height=120 width=120></img>
+Seraph server integration|Modeling/Flask website|Modeling/Flask website
